@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+=======
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+>>>>>>> 563b77bc62dad188a536c00b22caff1929e6d4a4
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
+=======
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="output" path=""/>
+>>>>>>> 563b77bc62dad188a536c00b22caff1929e6d4a4
 </classpath>
